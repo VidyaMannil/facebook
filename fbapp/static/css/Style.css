@@ -1,0 +1,90 @@
+.Container{
+    width: 1500px;
+
+}
+.Top_Side{
+    width: 1500px;
+    /* display: inline-block; */
+    float: left;
+    height: 70px;
+    background-color: #3b5998;
+
+}
+.Top_Left{
+   width: 600px auto;
+     /* display: inline-block; */
+     float: left;
+     height: 70px;
+
+}
+.Top_Right{
+    width: 250px;
+    /* display: inline-block; */
+    float: right;
+    background-color: #3b5998;
+    height:70px;
+    padding-left: 500px;
+    padding-right: 450px;
+ 
+ 
+}
+.Body_Part{
+    /* width: 1100px; */
+    /* background-color: #125cdb; */
+    /* height: 80%; */
+    background-color: #EDF0F5;
+   
+    margin-top: 25px;
+
+}
+.Left_Side{
+    width: 600px;
+    background-color: #EDF0F5;
+    float: left;
+    padding-right: 100px;
+    height: 594px
+
+}
+.Right_Side{
+    width: 775px;
+    background-color: #EDF0F5;
+    float: left;
+    padding-left: 25px;
+    /* padding-left: ;100px; */
+    /* height: 200px; */
+  
+    /* padding-right: 450px; */
+   
+
+}
+.ConnectLogo{
+    float: right;
+    background-color: #8fa4d1;
+  
+    background-image: linear-gradient(to top,#c2d4fa,#d4dae7,#f1f3f7);
+    
+}
+.Head3{
+    
+    margin-top: 25px;
+    /* float: right; */
+    text-align: left;
+    margin-left: 100px;
+}
+.LoginDtls{
+
+}
+.Cr_button{
+    width: 200px;
+    color: white;
+    background-color: #56953e;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    font-size: large;
+    border-radius: 5px;
+    background-image: linear-gradient(to top,#56953e,#78c759);
+    align-content: center;
+    /* float: unset;
+    margin-top: 5rem;
+    margin-left: 5rem; */
+}
